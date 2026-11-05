@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-commerce-extensions-react-native",
+  "capabilityKey": "planned:ecommerce:commerce-extensions",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-ecommerce-commerce-extensions-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/ecommerce/nextjs/commerce-extensions.md",
+  "presentationPlan": "projects/ecommerce/react-native/commerce-extensions.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
